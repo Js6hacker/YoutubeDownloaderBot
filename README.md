@@ -1,6 +1,6 @@
 *Video downloader using telegram bot*
 
      https://github.com/Js6hacker/YoutubeDownloaderBot.git
-     npm init
+     cd YoutubeDownloaderBot
      npm install
      node index.js
